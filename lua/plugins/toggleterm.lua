@@ -10,7 +10,7 @@ return {
     end,
     keys = {
       { [[<C-\>]] },
-      { "<leader>/", "<Cmd>2ToggleTerm<Cr>", desc = "Terminal #2" },
+      { "<leader>th", "<Cmd>2ToggleTerm<Cr>", desc = "Terminal #2" },
     },
   },
 }
